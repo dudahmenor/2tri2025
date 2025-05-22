@@ -4,10 +4,10 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #6d53f0;
-    --fundo-senha: #9a0ea9;
-    --fundo-texto: #9907b6;
-    --borda: #ff00ff;
+    --cor-de-fundo: #921e52;
+    --fundo-senha: #01060d;
+    --fundo-texto: #000000;
+    --borda: #ff0088;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
